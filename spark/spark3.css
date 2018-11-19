@@ -1,0 +1,30 @@
+body {
+    background-image: url(irelandd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.list-group {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 30px; 
+}
+
+#Facts {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+nav {
+    font-size: 15px;
+    color: darkgreen;
+    font-family: cursive;
+    position: absolute;
+}
