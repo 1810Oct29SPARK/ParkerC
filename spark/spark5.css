@@ -1,0 +1,24 @@
+#people {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5 em;
+    color: black;
+}
+
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ireland_%28MODIS%29.jpg/800px-Ireland_%28MODIS%29.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.list-group {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+nav {
+    font-size: 15px;
+    color: darkgreen;
+    font-family: cursive;
+    position: absolute;
+}
