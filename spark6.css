@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://d5qsyj6vaeh11.cloudfront.net/images/destinations/article%20images/d315_a_main.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#land {
+    margin-left: 10px;
+    position: absolute;
+    padding-top: 10px;
+}
+#im3 {
+    margin-top: 10px;
+}
+#im4 {
+    position: absolute;
+    
+}
+#im2 {
+    position: absolute;
+}
+#im1 {
+    position: absolute;
+    margin-right: 40px;
+}

@@ -1,0 +1,21 @@
+
+body {
+    background-image: url(https://www.eveningtelegraph.co.uk/wp-content/uploads/sites/11/2016/04/cask-and-cork.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#night {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5 em;
+    color: black;
+}
+
+nav {
+    font-size: 15px;
+    color: darkgreen;
+    font-family: cursive;
+    position: absolute;
+}

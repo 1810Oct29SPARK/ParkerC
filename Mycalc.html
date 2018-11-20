@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Mycalc</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="Mycalc.css" />
+    <script src="Mycalc.js"></script>
+</head>
+<body>
+
+    <form>
+            <h1>MY CALC</h1>
+        <fieldset> <!--Used to group related elements in a form and ddraws a box around related items-->
+            <legend>Input:</legend> <!--defines CAPTION for the <fieldset> element-->
+            <input type="number" id="num1" step=".01"/><br>
+            <input type="number" id="num2" step=".01"/>
+        </fieldset>
+        <fieldset>
+            <input type="radio" name="operation" value="add"/>ADD<br>
+            <input type="radio" name="operation" value="subtract"/>subtract<br>
+            <input type="radio" name="operation" value="divide"/>divide<br>     
+            <input type="radio" name="operation" value="multiply"/>multiply 
+        </fieldset>
+        <button type="button" id="answer">HIT ME!!</button>
+
+        <fieldset>
+                <legend>ANSWER</legend>
+                <input type="text" id="result" name="result">
+        </fieldset>
+
+
+
+
+    </form>
+    
+</body>
+</html>

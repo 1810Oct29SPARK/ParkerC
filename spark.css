@@ -1,0 +1,80 @@
+
+
+body {background-image: url(https://www.irelandbeforeyoudie.com/wp-content/uploads/2015/12/cork.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    text-align: center;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+}
+nav {
+    font-size: 15px;
+    color: darkgreen;
+    font-family: cursive;
+    position: absolute;
+}
+
+    #hi {
+     display: inline-flex; 
+     position: absolute; 
+    float: right;
+    right: 0;
+    margin: 10px;
+    }
+
+#castle:hover + #castle_text{
+    opacity:1;
+  }
+
+#castle_text {
+    border: 5px solid;
+    border-color: #0FC00E;
+    position: absolute;
+    text-align: center;
+    background-color: #FD8201;
+    top:15%;
+    width: 100%;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0;
+    transition: 0.5s;
+}  
+
+.food {
+    /*display: inline-flex;*/
+
+   /* margin-right: 80%;  */
+    position: absolute;
+    float: left;
+    margin: 10px;
+}
+
+#foodpage:hover + #foodpage_text{
+    opacity:1;
+  }
+
+
+  #foodpage_text:hover {
+      opacity: 1;
+  }
+
+  #foodpage_text {
+    border: 5px solid;
+    border-color: #0FC00E;
+    position: absolute;
+    text-align: center;
+    background-color: #FD8201;
+    top:15%;
+    width:100%;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0;
+    transition: 0.5s;
+}  
+
+#img {
+    position: absolute;
+    
+}

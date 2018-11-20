@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://tau0.files.wordpress.com/2018/10/bolt-4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+#Bengal {
+    font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+}
+
+header {
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+#Henry {background-repeat: no-repeat;
+        background-position: top right;
+        background-size: 0%;
+        opacity: .8;
+}
+
+#Henry2 {
+    background-repeat: no-repeat;
+    background-position: center;
+        background-size: 0%;
+        position: relative;
+        opacity: .9;
+
+}
+
+#shizzle {
+    position: relative;
+    margin-right: 50%;
+    opacity: .8;
+}
+

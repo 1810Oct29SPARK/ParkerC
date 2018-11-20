@@ -1,0 +1,40 @@
+body {
+    background-color: darkblue;
+    width: 75%;
+    background-position: center;
+}
+
+header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.8em;
+    
+}
+
+form {
+    background-image: url("IMG_0203.jpg");
+    background-size: inherit;
+    background-position: center;
+    position: relative;
+    width: 75%;
+    background-repeat: no-repeat;
+    margin-left: 20%;
+    color: whitesmoke;
+    padding: 80px;
+    border-style: groove;
+    border-color: black;
+    border-width: 50px;
+
+
+}
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+fieldset {
+    border-color: dimgray;
+    border-style: groove;
+    margin: 20px;
+}
